@@ -13,9 +13,14 @@ Final Report: [Report](https://github.com/COGS118A/Group021-Wi23/blob/main/Final
 
 Final Complete Jupyter Notebook: [Complete Notebook](https://github.com/COGS118A/Group021-Wi23/blob/main/FinalProjectCompleteVersion.ipynb)
 
-**Important Note: The report contains no code, but contains links to the code in Complete Version. These links will direct to a notebook viewer to display the same version of notebook.** The reason is that on Github, a cross-notebook hyperlink cannot direct to the correct cells, it will stop jumping after opening the correct notebook. Thus, we are using a 3rd-party viewer to display the complete notebook so everyone can be directed to the correct cells. Don't worry, the viewer just rerenders the notebook, so everything in the viewer is the same as Github.
+**Important Note: The report contains no code,** but contains some links to the code. These links will direct to a notebook viewer so that you can view some codes in related cells.
 
-**Important Note: Do NOT run the complete version, the grid search and neural network will take 40 minutes.**
+### Do NOT grade anything in the nbviewer, we use the nbviewer to simplify the reading process, but the nbviewer has glitches that did not update the latest version of the complete notebook in time, even if the code is complete.
+
+## Please grade the true notebook from the link provided above or in this Github repo
+
+
+**Do NOT run the complete version, the grid search and neural network will take 40 minutes.**
 
 
 Thank you~
