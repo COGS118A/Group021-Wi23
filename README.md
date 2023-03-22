@@ -15,8 +15,8 @@ Final Report: https://github.com/COGS118A/Group021-Wi23/blob/main/CheckpointGrou
 
 Final Complete Jupyter Notebook: https://github.com/COGS118A/Group021-Wi23/blob/main/FinalProjectCompleteVersion.ipynb
 
-**Note: The report contains no code, but links to the code in Complete Version.**
+**Note: The report contains no code, but contains links to the code in Complete Version.**
 
-**Note: Don't run the complete version, the grid search and neural network will take 40 mins.**
+**Note: Do NOT run the complete version, the grid search and neural network will take 40 minutes.**
 
 Thank you~
