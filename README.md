@@ -11,7 +11,7 @@ Proposal: [Proposal](https://github.com/COGS118A/Group021-Wi23/blob/main/Proposa
 
 CheckPoint(no update after submision): [CheckPoint](https://github.com/COGS118A/Group021-Wi23/blob/main/CheckpointGroup021-Wi23.ipynb)
 
-Final Report: [Report](https://github.com/COGS118A/Group021-Wi23/blob/main/CheckpointGroup021-Wi23.ipynb)
+Final Report: [Report](https://github.com/COGS118A/Group021-Wi23/blob/main/FinalProjectGroup021-Wi23.ipynb)
 
 Final Complete Jupyter Notebook: [Complete Notebook](https://github.com/COGS118A/Group021-Wi23/blob/main/FinalProjectCompleteVersion.ipynb)
 
