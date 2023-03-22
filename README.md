@@ -1,6 +1,6 @@
 # COGS118A Final Project: What's the Music?
 
-### None of the results should represent any subjective factors nor should be referenced into any practical applications.
+#### None of the results should represent any subjective facts nor should be referenced into any practical applications.
 
 Name: 
 - Jerry Wang, A16149329
