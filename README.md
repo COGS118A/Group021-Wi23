@@ -1,10 +1,20 @@
-# COGS118A Project template
-This is your group repo for your final project for COGS118A
+# COGS118A Project template Read Me
 
-This repository is publicly visible! We will be using that feature to do peer review of projects.
+Name: 
+- Jerry Wang, A16149329
+- Darius Azure, A15786330
+- Miko Brown, A16237566
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook).
+Proposal: https://github.com/COGS118A/Group021-Wi23/blob/main/ProposalGroup021-Wi23.ipynb
 
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
+CheckPoint(no update after submision): https://github.com/COGS118A/Group021-Wi23/blob/main/CheckpointGroup021-Wi23.ipynb
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+Final Report: https://github.com/COGS118A/Group021-Wi23/blob/main/CheckpointGroup021-Wi23.ipynb
+
+Final Complete Jupyter Notebook: https://github.com/COGS118A/Group021-Wi23/blob/main/FinalProjectCompleteVersion.ipynb
+
+**Note: The report contains no code, but links to the code in Complete Version.**
+
+**Note: Don't run the complete version, the grid search and neural network will take 40 mins.**
+
+Thank you~
