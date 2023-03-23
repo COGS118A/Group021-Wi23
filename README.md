@@ -15,9 +15,9 @@ Name:
 
 Proposal: [Proposal](https://github.com/COGS118A/Group021-Wi23/blob/main/ProposalGroup021-Wi23.ipynb)
 
-Final Report: [Report](https://github.com/COGS118A/Group021-Wi23/blob/main/FinalProjectGroup021-Wi23.ipynb)
+Final Report: [Report](https://github.com/COGS118A/Group021-Wi23/blob/main/FinalProjectGroup021-Wi23.ipynb) (easy to read, with links to code)
 
-Final Complete Jupyter Notebook: [Complete Notebook](https://github.com/COGS118A/Group021-Wi23/blob/main/FinalProjectCompleteVersion.ipynb)
+Final Complete Jupyter Notebook: [Complete Notebook](https://github.com/COGS118A/Group021-Wi23/blob/main/FinalProjectCompleteVersion.ipynb) (raw notebook with all code)
 
 
 
