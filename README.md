@@ -1,4 +1,4 @@
-# COGS118A Final Project: Classifying Song Genre
+# COGS118A Group 21 Final Project: Classifying Song Genre
 
 **The final report contains no code, but contains some links to the code. These links will direct to a notebook viewer so that you can view some codes in related cells.**
 
