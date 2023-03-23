@@ -2,7 +2,7 @@
 
 **The final report contains no code, but contains some links to the code. These links will direct to a notebook viewer so that you can view some codes in related cells.**
 
-**We use the nbviewer which enables hyperlinks to simplify the reading process, the same notebook from this repo.**
+**We use the nbviewer which enables hyperlinks to simplify the reading process, it is the same notebook from this repo.**
 
 #### None of the results should represent any subjective facts, None of the explanations should be referenced into any practical applications.
 
