@@ -4,7 +4,7 @@
 
 ### Do NOT grade anything in the nbviewer, we use the nbviewer to simplify the reading process, but the nbviewer has glitches that did not update the latest version of the complete notebook in time, even if the code is complete.
 
-## Please grade the true notebook from the link provided above or in this Github repo
+## Please grade the true notebook from the link provided below or in this Github repo
 
 #### None of the results should represent any subjective facts, None of the explanations should be referenced into any practical applications.
 
